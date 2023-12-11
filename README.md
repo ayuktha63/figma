@@ -1,3 +1,7 @@
 ##This file includes links to all my figma projects i have done till now
-1 = <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTkzpjd8M5A8YlglyHBNfkl%2FCloudCruise%3Fpage-id%3D0%253A1%26node-id%3D25-18%26starting-point-node-id%3D25%253A18%26mode%3Ddesign%26t%3D1bmJpvp3RW2TZ6nl-1" allowfullscreen></iframe>
+1 . https://www.figma.com/file/Tkzpjd8M5A8YlglyHBNfkl/CloudCruise?type=design&node-id=0%3A1&mode=design&t=g0T9GTWcR4NOWZYw-1
 This is an UI of a flight booking app
+2.https://www.figma.com/file/HQ6qcMcL3fzQdfmTCI0Ozc/Spotify?type=design&node-id=0%3A1&mode=design&t=om3k2E3q4LONdCLN-1
+I just cloned a page of spotify to practise my self and deal with accuracy and complexity
+3.https://www.figma.com/file/0Oz9z5xGhZyhNfCptMXLty/Untitled?type=design&node-id=0%3A1&mode=design&t=IGnjfnDiwJwXNE4O-1
+Tried to create a ui for my college canteen app
